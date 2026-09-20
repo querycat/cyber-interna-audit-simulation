@@ -25,7 +25,15 @@ O cenário original é estadunidense. Nesta adaptação, o caso foi reconstruíd
 
 ## Estrutura do repositório
 
-
+```text
+├── README.md
+├── audit/
+│   └── audit.md
+└── docs/
+    ├── control-and-complice-checklist.md
+    ├── control-categories.md
+    └── scope.md
+```
 
 ## Metodologia
 
