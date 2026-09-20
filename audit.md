@@ -57,7 +57,7 @@ A Botium Toys possui atualmente este controle?
 |1|Menor privilégio (_least privilege_)||✕|Todos os colaboradores acessam todos os dados|
 |2|Plano de recuperação de desastres||✕|Inexistente|
 |3|Política de senhas|✓||Existe, porém com requisitos insuficientes|
-|4|Segregação de funções||✕|Não implementada|
+|4|Separação de funções||✕|Não implementada|
 |5|Firewall|✓||Regras adequadamente definidas|
 |6|Sistema de detecção de intrusão (IDS)||✕|Não instalado|
 |7|Backups||✕|Sem cópias de dados críticos|
