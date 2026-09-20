@@ -56,7 +56,7 @@ A auditoria segue as cinco funções do NIST CSF — Identificar, Proteger, Dete
 
 | Situação | Quantidade | Controles                                                                                  |
 |---|---|---|
-| Implementados | 7 | Política de senhas (nominal), firewall, antivírus, monitoramento de legado, fechaduras, CFTV, detecção de incêndio                                                       |
+| Implementados | 7 | Política de senhas (nominal), firewall, antivírus, monitoramento de legado, fechaduras, CFTV, detecção de incêndio |
 | Ausentes| 7 | Menor privilégio, segregação de funções, plano de recuperação de desastres, backups, IDS, criptografia, cofre de senhas |
 
 ### Conformidade
@@ -81,7 +81,7 @@ A auditoria segue as cinco funções do NIST CSF — Identificar, Proteger, Dete
 | P2 | Política de senhas robusta, cofre corporativo e MFA |
 | P2 | Implantação de IDS/IPS |
 
-O relatório completo, com justificativas e prazos, está em [audit.md](https://github.com/querycat/cyber-interna-audit-simulation/blob/main/audit.md).
+O relatório completo, com justificativas e prazos, está em [audit.md](https://github.com/querycat/cyber-internal-audit-simulation/blob/main/audit/audit.md).
 
 ## Competências demonstradas
 
