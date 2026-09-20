@@ -1,6 +1,6 @@
 # Checklist de avaliação de controles
 
-Para completar a checklist de avaliação de controles, consulte as informações fornecidas no escopo, objetivos e relatório de avaliação de riscos. Para mais detalhes sobre cada controle, incluindo o tipo e o propósito, consulte o documento de categorias de controle. Em seguida, selecione “sim” ou “não” para responder à pergunta: A Botium Toys atualmente possui este controle implementado?
+Para completar a checklist de avaliação de controles, consulte as informações fornecidas no documento de [escopo, objetivos e relatório de avaliação de riscos](https://github.com/querycat/cyber-interna-audit-simulation/blob/main/scope.md). Para mais detalhes sobre cada controle, incluindo o tipo e o propósito, consulte o documento de categorias de controle. Em seguida, selecione “sim” ou “não” para responder à pergunta: A Botium Toys atualmente possui este controle implementado?
 
 | Controle                                       | Sim | Não |
 |------------------------------------------------|-----|-----|
