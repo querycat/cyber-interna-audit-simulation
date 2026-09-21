@@ -102,5 +102,5 @@ Este projeto é baseado em um cenário educacional (adaptado do Google Cybersecu
 
 querycat — em transição de carreira de desenvolvimento de software para cibersegurança, com foco em unir experiência em pagamentos e antifraude ao conhecimento de segurança.
 
-[GitHub](https://github.com/querycat) · [LinkedIn](https://github.com/querycat)
+[GitHub](https://github.com/querycat) · [LinkedIn](https://www.linkedin.com/in/maysa-pereira/)
 
