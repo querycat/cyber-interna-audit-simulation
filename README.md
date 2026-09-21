@@ -23,7 +23,7 @@ O cenário original é estadunidense. Nesta adaptação, o caso foi reconstruíd
 - GDPR mantido, por haver titulares na UE;
 - PCI DSS mantido, por haver aceite e processamento interno de cartões.
 
-## Estrutura do repositório
+## Estrutura do repositório e ordem de leitura sugerida
 
 ```text
 ├── README.md
@@ -34,6 +34,13 @@ O cenário original é estadunidense. Nesta adaptação, o caso foi reconstruíd
     ├── control-categories.md
     └── scope.md
 ```
+| Ordem | Arquivo | Propósito |
+|---|---|---|
+| 1 | [`scope.md`](docs/scope.md) | Definição do escopo, objetivos, ativos e limites da auditoria. |
+| 2 | [`control-categories.md`](docs/control-categories.md) | Explicação e classificação dos controles de segurança avaliados na auditoria. |
+| 3 | [`control-and-complice-checklist.md`](docs/control-and-complice-checklist) | Avaliação detalhada dos controles e dos requisitos de conformidade aplicáveis ao cenário. |
+| 4 | [`audit.md`](audit/audit.md) | Relatório completo da auditoria, consolidando riscos, achados, justificativas e recomendações priorizadas. |
+
 
 ## Metodologia
 
