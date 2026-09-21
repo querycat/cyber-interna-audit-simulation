@@ -90,7 +90,7 @@ A auditoria segue as cinco funções do NIST CSF — Identificar, Proteger, Dete
 
 O relatório completo, com justificativas e prazos, está em [audit.md](https://github.com/querycat/cyber-internal-audit-simulation/blob/main/audit/audit.md).
 
-## Competências demonstradas
+## Habilidades demonstradas
 
 - Auditoria interna de segurança da informação
 - Aplicação do NIST Cybersecurity Framework
