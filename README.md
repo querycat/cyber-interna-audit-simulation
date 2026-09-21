@@ -96,12 +96,11 @@ O relatório completo, com justificativas e prazos, está em [audit.md](https://
 
 A Botium Toys é uma empresa fictícia. Os dados, achados e recomendações deste repositório são um exercício acadêmico de portfólio e não constituem consultoria jurídica ou parecer de conformidade.
 
+Este projeto é baseado em um cenário educacional (adaptado do Google Cybersecurity Certificate) e tem finalidade exclusivamente de portfólio/estudo.
+
 ## Autoria
 
 querycat — em transição de carreira de desenvolvimento de software para cibersegurança, com foco em unir experiência em pagamentos e antifraude ao conhecimento de segurança.
 
 [GitHub](https://github.com/querycat) · [LinkedIn](https://github.com/querycat)
 
-## Licença
-
-Distribuído sob a licença MIT. Veja LICENSE para mais informações.
